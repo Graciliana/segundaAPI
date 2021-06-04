@@ -1,8 +1,8 @@
 {
     "mysql": {
-        "database": "salao",
+        "database": "wcc",
         "user": "root",
-        "password": "admin",
+        "password": "",
         "host": "127.0.0.1",
         "port": "3306"
     },

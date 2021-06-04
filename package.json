@@ -1,30 +1,21 @@
 {
   "name": "segundaAPI",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000s\u0000e\u0000g\u0000u\u0000n\u0000d\u0000a\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "description": "Criação de um API utilizando banco de dados permanente",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Graciliana/segundaAPI.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Graciliana Kascher",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Graciliana/segundaAPI/issues"
   },
-  "homepage": "https://github.com/Graciliana/segundaAPI#readme",
-  "dependencies": {
-    "config": "^3.3.6",
-    "consign": "^0.1.6",
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.6.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  }
+  "homepage": "https://github.com/Graciliana/segundaAPI#readme"
 }
